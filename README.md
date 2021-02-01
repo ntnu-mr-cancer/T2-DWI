@@ -23,7 +23,7 @@ To run the functions, type functionName.m(arguments). Note that for all three mo
 Use the calculateTwoComponent.m function, which uses the function hybridfit_TCmodel.m to perform the actual model fit.
 
 ### Bi-exponential model:
-Use the calculateBiExponential.m function, which uses the function hybridfit_BE.m to perform the actual model fit.
+Use the calculateBiExponential.m function, which uses the function hybridfit_BEmodel.m to perform the actual model fit.
 
 ### Mono-exponential ADC:
 Use the calculateADC.m function.
