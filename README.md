@@ -17,5 +17,14 @@ Syversen IF, Elschot M, Bathen TF, Goa PE. Two-component model of prostate tissu
 # How to use T2-DWI
 This is a MATLAB® function, and the function was written and tested using MATLAB® R2019b.
 
+## Two-component model:
+Use the calculateTwoComponent.m function, which uses the function hybridfit_TCmodel.m to perform the actual model fit.
+
+## Bi-exponentia model:
+Use the calculateBiExponential.m function, which uses the function hybridfit_BE.m to perform the actual model fit.
+
+## Mono-exponential ADC:
+Use the calculateADC.m function.
+
 # Contact us:
 Feel free to contact us: ingrid.f.syversen@ntnu.no
