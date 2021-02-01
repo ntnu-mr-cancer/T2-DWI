@@ -15,7 +15,7 @@ In case of using or referring to T2-DWI, please cite it as:
 Syversen IF, Elschot M, Bathen TF, Goa PE. Two-component model of prostate tissue using hybrid multidimensional T2 and diffusion-weighted imaging. (abstract 2419) In: Proceedings of the 2020 ISMRM & SMRT Virtual Conference & Exhibition, 2020.
 
 # How to use T2-DWI
-This is a MATLAB® function, the function was written and tested using MATLAB® R2019b.
+This is a MATLAB® function, and the function was written and tested using MATLAB® R2019b.
 
 # Contact us:
 Feel free to contact us: ingrid.f.syversen@ntnu.no
