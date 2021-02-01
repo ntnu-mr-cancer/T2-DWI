@@ -7,7 +7,7 @@ This repository provides functions for performing three different model fits to 
 The method was developed at the MR Cancer group at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. https://www.ntnu.edu/isb/mr-cancer
 
 # Note
-The provided algorithm was developed for research and is not approved for clinical use.
+The provided code was developed for research and is not approved for clinical use.
 
 # How to cite T2-DWI
 In case of using or referring to T2-DWI, please cite it as:
