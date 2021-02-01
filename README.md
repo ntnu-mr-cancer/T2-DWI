@@ -1,5 +1,5 @@
 # T2-DWI
-This repository provides functions for performing three different model fits to combined T2- and diffusion-weighted (T2-DWI) data acquired using two echo times (TEs) and two b-values.
+This repository provides functions for performing three different model fits to combined T2- and diffusion-weighted (T2-DWI) data acquired using two echo times (TEs) and two b-values:
 1. Two-component model
 2. Bi-exponential model
 3. Mono-exponential apparent diffusion coefficient (ADC)
@@ -11,6 +11,7 @@ The provided algorithm was developed for research and is not approved for clinic
 
 # How to cite T2-DWI
 In case of using or referring to T2-DWI, please cite it as:
+
 Syversen IF, Elschot M, Bathen TF, Goa PE. Two-component model of prostate tissue using hybrid multidimensional T2 and diffusion-weighted imaging. (abstract 2419) In: Proceedings of the 2020 ISMRM & SMRT Virtual Conference & Exhibition, 2020.
 
 # How to use T2-DWI
