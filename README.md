@@ -12,7 +12,7 @@ The provided code was developed for research and is not approved for clinical us
 # How to cite T2-DWI
 In case of using or referring to T2-DWI, please cite it as:
 
-Syversen IF, Elschot M, Bathen TF, Goa PE. Two-component model of prostate tissue using hybrid multidimensional T2 and diffusion-weighted imaging. (abstract 2419) In: Proceedings of the 2020 ISMRM & SMRT Virtual Conference & Exhibition, 2020.
+Syversen IF, Elschot M, Sandsmark E, Bertilsson H, Bathen TF, Goa PE. Exploring the diagnostic potential of adding T2 dependence in diffusion-weighted imaging of the prostate. PLoS One. 2021;16(5):e0252387. doi: 10.1371/journal.pone.0252387
 
 # How to use T2-DWI
 This is a MATLAB® function, and the function was written and tested using MATLAB® R2019b.
